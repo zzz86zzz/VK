@@ -13,6 +13,7 @@ public class Post {
     private boolean canDelete ;
     private boolean canCopy;
     private boolean canEdit;
+    private boolean Donut;
 
     private CommentsInfo commentsInfo;
     private LikesInfo like;
